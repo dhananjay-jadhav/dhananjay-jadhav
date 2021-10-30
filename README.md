@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhananjay-jadhav
-- 👀 I’m interested in React JS, TypeScript, Python,Machine Learning, GraphQL
-- 🌱 I’m currently learning NestJS 
+- 👀 I’m interested in React JS, TypeScript, Node Js, Python,Machine Learning, GraphQL
+- 🌱 I’m currently learning Kafka Js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
