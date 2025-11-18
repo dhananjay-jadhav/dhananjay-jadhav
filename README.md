@@ -1,4 +1,3 @@
-```markdown
 Hi — I’m Dhananjay.
 
 I work on building reliable backend systems and straightforward developer tools. I primarily use Node.js and TypeScript, and I enjoy applying patterns that help teams move faster: microservices, event-driven design, and simple, testable APIs.
@@ -22,4 +21,3 @@ If you want to see specific projects here, I can list or highlight repos from my
 Thanks for stopping by — feel free to connect:
 - Email: jadhav9260@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dhananjay-jadhav-448961126
-```
