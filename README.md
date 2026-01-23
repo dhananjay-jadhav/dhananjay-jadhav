@@ -16,8 +16,6 @@ Selected projects
 Tech snapshot
 TypeScript · Node.js · NestJS · GraphQL · Kafka · React · PostgreSQL · MongoDB · Docker · GitHub Actions
 
-If you want to see specific projects here, I can list or highlight repos from my profile and update this README with links and short explanations.
-
 Thanks for stopping by — feel free to connect:
 - Email: jadhav9260@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dhananjay-jadhav-448961126
